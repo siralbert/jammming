@@ -2,6 +2,10 @@ Jammming Spotify Project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<pre><font color="#4D9A05">git</font> clone https://github.com/siralbert/jammming.git </pre>
+<pre><font color="#4D9A05">cd</font> jammming</pre>
+<pre><font color="#4D9A05">npm</font> install     </pre>
+
 ## Available Scripts
 
 In the project directory, you can run:

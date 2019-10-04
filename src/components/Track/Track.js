@@ -1,7 +1,7 @@
 import React from 'react';
 import './Track.css';
 
-export class Track extends from React.Component {
+export class Track extends React.Component {
   render (){
     return (
       <div className="Track">

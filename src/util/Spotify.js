@@ -1,6 +1,5 @@
-// const clientId = 'cd528189728c4c779307586e69805588';   // do not expose publicly on github
-const clientId = '88888888888888888888888888888888';
-const redirectUri = 'http://localhost:3000';
+const clientId = 'cd528189728c4c779307586e69805588';
+const redirectUri = 'https://jammming-x.herokuapp.com/';
 
 let accessToken;
 
